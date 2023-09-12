@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DinoQuiz</string>
+    <string name="question_ankylosaurus">Ankylosaurus lived during the Triassic period.</string>
+    <string name="question_quetzal">Quetzacoatlus is considered to be the known largest flying animal of all time.</string>
+    <string name="question_velociraptor">Velociraptors were small feathered predators.</string>
+    <string name="question_tyrannosaurus">Tyrannosaurus Rex was capable of roaring.</string>
+    <string name="question_herbivore">Stegosaurus and Parasaurolophus coexisted with each other during the Cretaceous period.</string>
+    <string name="question_birds">Modern birds are the last remaining dinosaurs still alive today.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="prev_button">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+</resources>
